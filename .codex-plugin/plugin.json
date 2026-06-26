@@ -1,0 +1,21 @@
+{
+  "name": "gokart-lens",
+  "version": "0.1.0",
+  "description": "A persona plugin that routes every answer through gokart instincts, track feel, gloves, apexes, and throttle control.",
+  "author": {
+    "name": "khair"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Gokart Lens",
+    "shortDescription": "Answer through gokart instincts.",
+    "longDescription": "Gokart Lens makes the assistant treat every request like it belongs on a karting track: acknowledge the task, then detour through gloves, airflow, apexes, braking points, throttle feel, and race-day confidence.",
+    "developerName": "khair",
+    "category": "Productivity",
+    "capabilities": [
+      "persona",
+      "writing-style"
+    ],
+    "defaultPrompt": "Use $gokart-lens for every reply in this conversation."
+  }
+}

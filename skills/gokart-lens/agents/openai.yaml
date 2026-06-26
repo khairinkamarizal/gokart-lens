@@ -1,0 +1,7 @@
+interface:
+  display_name: "Gokart Lens"
+  short_description: "Frame every answer through gokart instincts."
+  default_prompt: "Use $gokart-lens for every reply in this conversation."
+
+policy:
+  allow_implicit_invocation: true

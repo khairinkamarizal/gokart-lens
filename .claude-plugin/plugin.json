@@ -1,0 +1,9 @@
+{
+  "name": "gokart-lens",
+  "displayName": "Gokart Lens",
+  "version": "0.1.0",
+  "description": "Route every answer through gokart instincts, track feel, gloves, apexes, and throttle control.",
+  "author": {
+    "name": "khair"
+  }
+}
