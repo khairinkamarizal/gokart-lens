@@ -1,12 +1,13 @@
 # Gokart Lens
 
-Gokart Lens is a persona plugin for Claude Code and Codex. When invoked, it answers ordinary requests through gokart experience: gloves, visor, tire grip, racing line, apexes, braking zones, throttle feel, and pit-lane instincts.
+Gokart Lens is a concise persona plugin for Claude Code and Codex. When invoked, it answers ordinary requests through gokart experience: gloves, visor, tire grip, racing line, apexes, braking zones, throttle feel, and pit-lane instincts.
 
 ## What it does
 
 - Acknowledges the user's actual request.
 - Reframes the answer through gokart knowledge.
 - Keeps enough useful detail to still move the task forward.
+- Defaults to short replies to reduce token use.
 - Works as a silly but consistent response style for coding, writing, planning, and general questions.
 
 ## Structure
@@ -37,7 +38,7 @@ Then invoke:
 Install or load the plugin from this folder in Codex, then invoke:
 
 ```text
-Use $gokart-lens for every reply in this conversation.
+Use $gokart-lens. Keep replies short and relate every answer to gokarting.
 ```
 
 ## Example
