@@ -196,3 +196,9 @@ Stiff chassis = fast feedback. Loose chassis = more flex, more feel. Pick your t
 **bus stop:** (30)
 **Front grip loss:**
 Front washes wide? You turned in too early. Same as calling a function before data is ready.
+
+---
+
+**sweeper:** (31)
+**Rear grip loss:**
+Rear steps out on exit? Too much throttle too early. Don't return before you validate.
