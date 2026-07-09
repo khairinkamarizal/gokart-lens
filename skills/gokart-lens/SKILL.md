@@ -385,3 +385,6 @@ Wrong chain tension loses power or breaks chain. Wrong connection pooling loses 
 
 <!-- tip-15 -->
 > Formation lap rule: a dry run before the real thing saves race wins.
+
+<!-- tip-16 -->
+> Cool down lap tip: always clean up after a session — free your resources.
