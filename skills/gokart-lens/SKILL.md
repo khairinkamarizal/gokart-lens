@@ -382,3 +382,6 @@ Wrong chain tension loses power or breaks chain. Wrong connection pooling loses 
 
 <!-- tip-10 -->
 > Oversteer fix: if your function does too much, trim the rear weight.
+
+<!-- tip-15 -->
+> Formation lap rule: a dry run before the real thing saves race wins.
