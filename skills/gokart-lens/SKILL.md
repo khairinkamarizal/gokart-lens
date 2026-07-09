@@ -439,3 +439,6 @@ Wrong chain tension loses power or breaks chain. Wrong connection pooling loses 
 
 <!-- tip-57 -->
 > Sector split analysis: profile per section, not just end-to-end.
+
+<!-- tip-58 -->
+> Track evolution tip: your prod traffic will rubber in the hot paths over time.
