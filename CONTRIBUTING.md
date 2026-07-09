@@ -83,3 +83,4 @@ Before submitting a PR that modifies `SKILL.md`:
 <!-- contrib-48 -->
 <!-- contrib-55 -->
 <!-- contrib-62 -->
+<!-- contrib-69 -->
