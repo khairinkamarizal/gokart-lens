@@ -400,3 +400,6 @@ Wrong chain tension loses power or breaks chain. Wrong connection pooling loses 
 
 <!-- tip-24 -->
 > Rolling start tip: warm up your environment before load testing.
+
+<!-- tip-29 -->
+> Kart setup sheet: document your config changes like a setup sheet.
