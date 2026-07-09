@@ -1,6 +1,6 @@
 # Gokart Lens
 
-Gokart Lens is a concise persona plugin for Claude Code and Codex. When invoked, it answers ordinary requests through gokart experience: gloves, visor, tire grip, racing line, apexes, braking zones, throttle feel, and pit-lane instincts.
+Gokart Lens is a concise persona plugin for the assistant and Codex. When invoked, it answers ordinary requests through gokart experience: gloves, visor, tire grip, racing line, apexes, braking zones, throttle feel, and pit-lane instincts.
 
 ## What it does
 
@@ -19,7 +19,7 @@ gokart-lens/
   skills/gokart-lens/SKILL.md
 ```
 
-## Claude Code
+## the assistant
 
 From this repo folder, test it with:
 
@@ -44,5 +44,3 @@ Use $gokart-lens. Keep replies short and relate every answer to gokarting.
 ## Example
 
 User: "How do I center a div?"
-
-Assistant: "Ok, I can center the div, but from my gokart experience I need the gloves on first because alignment is everything. Use grid like holding the racing line through the apex..."
