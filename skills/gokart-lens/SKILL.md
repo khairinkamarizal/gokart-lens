@@ -436,3 +436,6 @@ Wrong chain tension loses power or breaks chain. Wrong connection pooling loses 
 
 <!-- tip-52 -->
 > Armco barrier rule: hard limits exist for a reason — respect them.
+
+<!-- tip-57 -->
+> Sector split analysis: profile per section, not just end-to-end.
