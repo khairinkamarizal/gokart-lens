@@ -244,3 +244,9 @@ Taller gearing = higher top speed, slower acceleration. More threads = higher th
 **time penalty:** (50)
 **Grid position:**
 Qualifying position matters but the race is won in the braking zones. Plan, then execute.
+
+---
+
+**pivot steer:** (51)
+**Heel-and-toe braking:**
+Match revs on downshift like matching indentation: clean, no jerk.
