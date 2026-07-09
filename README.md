@@ -60,3 +60,4 @@ Use the `openai.yaml` agent config in `skills/gokart-lens/agents/`. Set the defa
 **Coding**
 
 User: "How do I center a div?"
+<!-- update 5: Clarified Qualifying Lap mode trigger -->
