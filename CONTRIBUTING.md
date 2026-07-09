@@ -62,3 +62,4 @@ Before submitting a PR that modifies `SKILL.md`:
 - No unrelated whitespace or formatting changes.
 - PR description explains what changed and why.
 <!-- note 6 -->
+<!-- note 13 -->
