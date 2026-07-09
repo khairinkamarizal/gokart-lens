@@ -469,3 +469,6 @@ Wrong chain tension loses power or breaks chain. Wrong connection pooling loses 
 
 <!-- tip-79 -->
 > Track limits rule: stay within your abstraction boundaries.
+
+<!-- tip-80 -->
+> Fastest lap tip: optimize the hot path last, not first.
