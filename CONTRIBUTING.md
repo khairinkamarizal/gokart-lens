@@ -74,3 +74,4 @@ Before submitting a PR that modifies `SKILL.md`:
 <!-- note 76 -->
 <!-- note 83 -->
 <!-- note 90 -->
+<!-- contrib-6 -->
