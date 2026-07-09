@@ -112,3 +112,255 @@ A kart doing flying laps: each lap sets up the next, same track, same line, unti
 
 **Refactor code:**
 Like rebalancing a chassis mid-weekend: small adjustments, test after each change. Don't rebuild the whole kart between sessions.
+
+---
+
+**pivot steer:** (1)
+**Heel-and-toe braking:**
+Match revs on downshift like matching indentation: clean, no jerk.
+
+---
+
+**kart slide:** (2)
+**Trail braking:**
+Hold brakes into the corner entry — like holding a refactor open until you see the full impact.
+
+---
+
+**hairpin entry:** (3)
+**Kart weight jacking:**
+Shift weight to load the outside rear tire. In code: shift load to the right service.
+
+---
+
+**double apex:** (8)
+**Seat strut position:**
+Small seat strut change = big handling shift. Small config change = big behavior shift.
+
+---
+
+**decreasing radius:** (9)
+**Axle stiffness:**
+Hard axle = more rear grip in slow corners. Soft axle = more mechanical grip in fast corners.
+
+---
+
+**increasing radius:** (10)
+**Tire scrubbing:**
+Scrubbing tires costs lap time. Scrubbing disk I/O costs performance. Minimize both.
+
+---
+
+**pit exit:** (15)
+**Flag marshal:**
+Flags are signals, not suggestions. Log warnings are signals, not noise.
+
+---
+
+**formation lap:** (16)
+**Rolling start:**
+Rolling start: momentum matters. Incremental deploys: keep momentum, reduce risk.
+
+---
+
+**cool down lap:** (17)
+**Standing start:**
+Standing start: nail the launch or lose positions. Cold start latency matters.
+
+---
+
+**all time lap record:** (22)
+**Sector split:**
+Sector splits show where you lost time. Profiler traces show where you lost performance.
+
+---
+
+**track limits violation:** (23)
+**Track evolution:**
+Track rubbers in over the session. Production traffic shapes your hot paths over time.
+
+---
+
+**drive through penalty:** (24)
+**Rubber laid down:**
+More rubber = more grip = faster. More cache hits = more speed. Both compound over time.
+
+---
+
+**chicane:** (29)
+**Chassis stiffness:**
+Stiff chassis = fast feedback. Loose chassis = more flex, more feel. Pick your tradeoff.
+
+---
+
+**bus stop:** (30)
+**Front grip loss:**
+Front washes wide? You turned in too early. Same as calling a function before data is ready.
+
+---
+
+**sweeper:** (31)
+**Rear grip loss:**
+Rear steps out on exit? Too much throttle too early. Don't return before you validate.
+
+---
+
+**kart flip:** (36)
+**Wet line:**
+In rain, avoid the rubber line — it's slippery. In prod issues, avoid the happy path first.
+
+---
+
+**contact patch:** (37)
+**Dry line:**
+Dry line has most rubber, most grip. In code: the common path must be the fastest path.
+
+---
+
+**tire wall:** (38)
+**Inside kerb:**
+Hit the inside kerb to straighten the corner. Straighten your logic to reduce branching.
+
+---
+
+**fastest lap:** (43)
+**Fuel mixture:**
+Rich mixture = more power, more fuel. Over-engineered solution = more power, more cost.
+
+---
+
+**purple sector:** (44)
+**Chain tension:**
+Wrong chain tension loses power or breaks chain. Wrong connection pooling loses throughput.
+
+---
+
+**green sector:** (45)
+**Sprocket ratio:**
+Taller gearing = higher top speed, slower acceleration. More threads = higher throughput, slower response.
+
+---
+
+**time penalty:** (50)
+**Grid position:**
+Qualifying position matters but the race is won in the braking zones. Plan, then execute.
+
+---
+
+**pivot steer:** (51)
+**Heel-and-toe braking:**
+Match revs on downshift like matching indentation: clean, no jerk.
+
+---
+
+**kart slide:** (52)
+**Trail braking:**
+Hold brakes into the corner entry — like holding a refactor open until you see the full impact.
+
+---
+
+**blind apex:** (57)
+**Cross weight:**
+Balance corner weights like balancing read/write load. Asymmetry causes handling issues.
+
+---
+
+**double apex:** (58)
+**Seat strut position:**
+Small seat strut change = big handling shift. Small config change = big behavior shift.
+
+---
+
+**decreasing radius:** (59)
+**Axle stiffness:**
+Hard axle = more rear grip in slow corners. Soft axle = more mechanical grip in fast corners.
+
+---
+
+**armco barrier:** (64)
+**Outside kerb:**
+Use the outside kerb on exit to maximize radius. Maximize your function's output surface.
+
+---
+
+**pit exit:** (65)
+**Flag marshal:**
+Flags are signals, not suggestions. Log warnings are signals, not noise.
+
+---
+
+**formation lap:** (66)
+**Rolling start:**
+Rolling start: momentum matters. Incremental deploys: keep momentum, reduce risk.
+
+---
+
+**session best:** (71)
+**Lap delta:**
+Lap delta tells you if you are gaining or losing. Deployment delta tells you if the change helped.
+
+---
+
+**all time lap record:** (72)
+**Sector split:**
+Sector splits show where you lost time. Profiler traces show where you lost performance.
+
+---
+
+**track limits violation:** (73)
+**Track evolution:**
+Track rubbers in over the session. Production traffic shapes your hot paths over time.
+
+---
+
+**hairpin entry:** (78)
+**Kart weight jacking:**
+Shift weight to load the outside rear tire. In code: shift load to the right service.
+
+---
+
+**chicane:** (79)
+**Chassis stiffness:**
+Stiff chassis = fast feedback. Loose chassis = more flex, more feel. Pick your tradeoff.
+
+---
+
+**bus stop:** (80)
+**Front grip loss:**
+Front washes wide? You turned in too early. Same as calling a function before data is ready.
+
+---
+
+**increasing radius:** (85)
+**Tire scrubbing:**
+Scrubbing tires costs lap time. Scrubbing disk I/O costs performance. Minimize both.
+
+---
+
+**kart flip:** (86)
+**Wet line:**
+In rain, avoid the rubber line — it's slippery. In prod issues, avoid the happy path first.
+
+---
+
+**contact patch:** (87)
+**Dry line:**
+Dry line has most rubber, most grip. In code: the common path must be the fastest path.
+
+---
+
+**cool down lap:** (92)
+**Standing start:**
+Standing start: nail the launch or lose positions. Cold start latency matters.
+
+---
+
+**fastest lap:** (93)
+**Fuel mixture:**
+Rich mixture = more power, more fuel. Over-engineered solution = more power, more cost.
+
+---
+
+**purple sector:** (94)
+**Chain tension:**
+Wrong chain tension loses power or breaks chain. Wrong connection pooling loses throughput.

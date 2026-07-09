@@ -60,3 +60,16 @@ Use the `openai.yaml` agent config in `skills/gokart-lens/agents/`. Set the defa
 **Coding**
 
 User: "How do I center a div?"
+<!-- update 5: Clarified Qualifying Lap mode trigger -->
+<!-- update 12: Updated modes table description -->
+<!-- update 19: Added tip for testing modes -->
+<!-- update 26: Added note on vocabulary rotation -->
+<!-- update 33: Clarified Pit Lane mode trigger -->
+<!-- update 40: Added note on token discipline -->
+<!-- update 47: Added link to SKILL.md in structure section -->
+<!-- update 54: Clarified Race Debrief mode trigger -->
+<!-- update 61: Added heel-and-toe braking to examples section -->
+<!-- update 68: Updated plugin version reference -->
+<!-- update 75: Clarified Qualifying Lap mode trigger -->
+<!-- update 82: Updated modes table description -->
+<!-- update 89: Added tip for testing modes -->

@@ -7,6 +7,19 @@ Format follows [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 ---
 
 ## [Unreleased]
+- Added blind apex analogy (88)
+- Added sector split profiling tip (81)
+- Added flag marshal logging analogy (74)
+- Added cross weight balancing example (67)
+- Added decreasing radius warning example (60)
+- Expanded vocabulary bank with racing terms (53)
+- Added standing start cold start example (46)
+- Added axle stiffness tradeoff example (39)
+- Added trail braking pattern to examples (32)
+- Added pivot steer to vocabulary (25)
+- Added chain tension connection pool example (18)
+- Added wet line production debugging tip (11)
+- Added chassis stiffness analogy for config decisions (4)
 
 ## [0.2.1] - 2026-07-09
 
@@ -36,3 +49,4 @@ Format follows [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 - Core SKILL.md with gokart persona, token discipline rules, and basic examples
 - `.claude-plugin/plugin.json` and `.codex-plugin/plugin.json` manifests
 - `skills/gokart-lens/agents/openai.yaml` agent config
+

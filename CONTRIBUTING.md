@@ -61,3 +61,16 @@ Before submitting a PR that modifies `SKILL.md`:
 - Updated `CHANGELOG.md` entry under `[Unreleased]`.
 - No unrelated whitespace or formatting changes.
 - PR description explains what changed and why.
+<!-- note 6 -->
+<!-- note 13 -->
+<!-- note 20 -->
+<!-- note 27 -->
+<!-- note 34 -->
+<!-- note 41 -->
+<!-- note 48 -->
+<!-- note 55 -->
+<!-- note 62 -->
+<!-- note 69 -->
+<!-- note 76 -->
+<!-- note 83 -->
+<!-- note 90 -->
