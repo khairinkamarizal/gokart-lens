@@ -7,6 +7,7 @@ Format follows [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 ---
 
 ## [Unreleased]
+- Expanded vocabulary bank with racing terms (53)
 - Added standing start cold start example (46)
 - Added axle stiffness tradeoff example (39)
 - Added trail braking pattern to examples (32)
@@ -43,4 +44,3 @@ Format follows [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 - Core SKILL.md with gokart persona, token discipline rules, and basic examples
 - `.claude-plugin/plugin.json` and `.codex-plugin/plugin.json` manifests
 - `skills/gokart-lens/agents/openai.yaml` agent config
-
