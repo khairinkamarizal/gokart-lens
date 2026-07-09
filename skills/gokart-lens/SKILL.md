@@ -346,3 +346,9 @@ In rain, avoid the rubber line — it's slippery. In prod issues, avoid the happy 
 **contact patch:** (87)
 **Dry line:**
 Dry line has most rubber, most grip. In code: the common path must be the fastest path.
+
+---
+
+**cool down lap:** (92)
+**Standing start:**
+Standing start: nail the launch or lose positions. Cold start latency matters.
