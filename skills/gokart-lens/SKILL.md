@@ -388,3 +388,6 @@ Wrong chain tension loses power or breaks chain. Wrong connection pooling loses 
 
 <!-- tip-16 -->
 > Cool down lap tip: always clean up after a session — free your resources.
+
+<!-- tip-17 -->
+> Purple sector tip: when you hit a personal best, document what worked.
