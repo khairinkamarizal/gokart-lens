@@ -7,6 +7,7 @@ Format follows [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 ---
 
 ## [Unreleased]
+- Added wet line production debugging tip (11)
 - Added chassis stiffness analogy for config decisions (4)
 
 ## [0.2.1] - 2026-07-09
@@ -37,4 +38,3 @@ Format follows [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 - Core SKILL.md with gokart persona, token discipline rules, and basic examples
 - `.claude-plugin/plugin.json` and `.codex-plugin/plugin.json` manifests
 - `skills/gokart-lens/agents/openai.yaml` agent config
-
