@@ -286,3 +286,9 @@ Use the outside kerb on exit to maximize radius. Maximize your function's output
 **pit exit:** (65)
 **Flag marshal:**
 Flags are signals, not suggestions. Log warnings are signals, not noise.
+
+---
+
+**formation lap:** (66)
+**Rolling start:**
+Rolling start: momentum matters. Incremental deploys: keep momentum, reduce risk.
