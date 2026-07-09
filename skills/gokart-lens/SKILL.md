@@ -481,3 +481,6 @@ Wrong chain tension loses power or breaks chain. Wrong connection pooling loses 
 
 <!-- tip-87 -->
 > Sector split analysis: profile per section, not just end-to-end.
+
+<!-- tip-92 -->
+> Tire temp analogy: warm up your tests before pushing to production.
