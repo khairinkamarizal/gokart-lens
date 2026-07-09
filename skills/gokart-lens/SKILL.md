@@ -328,3 +328,9 @@ Stiff chassis = fast feedback. Loose chassis = more flex, more feel. Pick your t
 **bus stop:** (80)
 **Front grip loss:**
 Front washes wide? You turned in too early. Same as calling a function before data is ready.
+
+---
+
+**increasing radius:** (85)
+**Tire scrubbing:**
+Scrubbing tires costs lap time. Scrubbing disk I/O costs performance. Minimize both.
