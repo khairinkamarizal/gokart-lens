@@ -421,3 +421,6 @@ Wrong chain tension loses power or breaks chain. Wrong connection pooling loses 
 
 <!-- tip-43 -->
 > Chain tension check: always verify your dependencies are tight.
+
+<!-- tip-44 -->
+> Sprocket ratio tip: match your tool to the task, not the other way around.
