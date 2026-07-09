@@ -352,3 +352,9 @@ Dry line has most rubber, most grip. In code: the common path must be the fastes
 **cool down lap:** (92)
 **Standing start:**
 Standing start: nail the launch or lose positions. Cold start latency matters.
+
+---
+
+**fastest lap:** (93)
+**Fuel mixture:**
+Rich mixture = more power, more fuel. Over-engineered solution = more power, more cost.
