@@ -73,3 +73,4 @@ User: "How do I center a div?"
 <!-- update 75: Clarified Qualifying Lap mode trigger -->
 <!-- update 82: Updated modes table description -->
 <!-- update 89: Added tip for testing modes -->
+<!-- readme-5 -->
