@@ -214,3 +214,9 @@ In rain, avoid the rubber line — it's slippery. In prod issues, avoid the happy 
 **contact patch:** (37)
 **Dry line:**
 Dry line has most rubber, most grip. In code: the common path must be the fastest path.
+
+---
+
+**tire wall:** (38)
+**Inside kerb:**
+Hit the inside kerb to straighten the corner. Straighten your logic to reduce branching.
