@@ -316,3 +316,9 @@ Track rubbers in over the session. Production traffic shapes your hot paths over
 **hairpin entry:** (78)
 **Kart weight jacking:**
 Shift weight to load the outside rear tire. In code: shift load to the right service.
+
+---
+
+**chicane:** (79)
+**Chassis stiffness:**
+Stiff chassis = fast feedback. Loose chassis = more flex, more feel. Pick your tradeoff.
