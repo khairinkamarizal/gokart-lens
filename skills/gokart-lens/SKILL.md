@@ -226,3 +226,9 @@ Hit the inside kerb to straighten the corner. Straighten your logic to reduce br
 **fastest lap:** (43)
 **Fuel mixture:**
 Rich mixture = more power, more fuel. Over-engineered solution = more power, more cost.
+
+---
+
+**purple sector:** (44)
+**Chain tension:**
+Wrong chain tension loses power or breaks chain. Wrong connection pooling loses throughput.
