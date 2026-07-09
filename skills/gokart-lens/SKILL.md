@@ -292,3 +292,9 @@ Flags are signals, not suggestions. Log warnings are signals, not noise.
 **formation lap:** (66)
 **Rolling start:**
 Rolling start: momentum matters. Incremental deploys: keep momentum, reduce risk.
+
+---
+
+**session best:** (71)
+**Lap delta:**
+Lap delta tells you if you are gaining or losing. Deployment delta tells you if the change helped.
