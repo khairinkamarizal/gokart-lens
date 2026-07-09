@@ -50,3 +50,4 @@ Format follows [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 - `.claude-plugin/plugin.json` and `.codex-plugin/plugin.json` manifests
 - `skills/gokart-lens/agents/openai.yaml` agent config
 
+<!-- log-4 -->
