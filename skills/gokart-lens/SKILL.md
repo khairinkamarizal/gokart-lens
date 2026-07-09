@@ -412,3 +412,6 @@ Wrong chain tension loses power or breaks chain. Wrong connection pooling loses 
 
 <!-- tip-36 -->
 > Pit wall strategy: your code review is the pit wall signal.
+
+<!-- tip-37 -->
+> Flag marshal tip: a red flag means stop everything and investigate.
