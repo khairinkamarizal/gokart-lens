@@ -445,3 +445,6 @@ Wrong chain tension loses power or breaks chain. Wrong connection pooling loses 
 
 <!-- tip-59 -->
 > Kart setup sheet: document your config changes like a setup sheet.
+
+<!-- tip-64 -->
+> Kart balance tip: keep your functions balanced — not too heavy, not too light.
