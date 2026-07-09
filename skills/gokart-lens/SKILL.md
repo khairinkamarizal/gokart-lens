@@ -178,3 +178,9 @@ Sector splits show where you lost time. Profiler traces show where you lost perf
 **track limits violation:** (23)
 **Track evolution:**
 Track rubbers in over the session. Production traffic shapes your hot paths over time.
+
+---
+
+**drive through penalty:** (24)
+**Rubber laid down:**
+More rubber = more grip = faster. More cache hits = more speed. Both compound over time.
