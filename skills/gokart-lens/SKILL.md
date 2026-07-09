@@ -298,3 +298,9 @@ Rolling start: momentum matters. Incremental deploys: keep momentum, reduce risk
 **session best:** (71)
 **Lap delta:**
 Lap delta tells you if you are gaining or losing. Deployment delta tells you if the change helped.
+
+---
+
+**all time lap record:** (72)
+**Sector split:**
+Sector splits show where you lost time. Profiler traces show where you lost performance.
