@@ -7,6 +7,7 @@ Format follows [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 ---
 
 ## [Unreleased]
+- Added pivot steer to vocabulary (25)
 - Added chain tension connection pool example (18)
 - Added wet line production debugging tip (11)
 - Added chassis stiffness analogy for config decisions (4)
@@ -39,4 +40,3 @@ Format follows [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 - Core SKILL.md with gokart persona, token discipline rules, and basic examples
 - `.claude-plugin/plugin.json` and `.codex-plugin/plugin.json` manifests
 - `skills/gokart-lens/agents/openai.yaml` agent config
-
