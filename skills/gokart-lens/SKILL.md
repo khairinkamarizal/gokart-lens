@@ -391,3 +391,6 @@ Wrong chain tension loses power or breaks chain. Wrong connection pooling loses 
 
 <!-- tip-17 -->
 > Purple sector tip: when you hit a personal best, document what worked.
+
+<!-- tip-22 -->
+> Armco barrier rule: hard limits exist for a reason — respect them.
