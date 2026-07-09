@@ -160,3 +160,9 @@ Flags are signals, not suggestions. Log warnings are signals, not noise.
 **formation lap:** (16)
 **Rolling start:**
 Rolling start: momentum matters. Incremental deploys: keep momentum, reduce risk.
+
+---
+
+**cool down lap:** (17)
+**Standing start:**
+Standing start: nail the launch or lose positions. Cold start latency matters.
