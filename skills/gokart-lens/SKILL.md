@@ -430,3 +430,6 @@ Wrong chain tension loses power or breaks chain. Wrong connection pooling loses 
 
 <!-- tip-50 -->
 > Fastest lap tip: optimize the hot path last, not first.
+
+<!-- tip-51 -->
+> Kart flip warning: don't invert your logic mid-corner.
