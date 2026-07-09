@@ -208,3 +208,9 @@ Rear steps out on exit? Too much throttle too early. Don't return before you val
 **kart flip:** (36)
 **Wet line:**
 In rain, avoid the rubber line — it's slippery. In prod issues, avoid the happy path first.
+
+---
+
+**contact patch:** (37)
+**Dry line:**
+Dry line has most rubber, most grip. In code: the common path must be the fastest path.
