@@ -379,3 +379,6 @@ Wrong chain tension loses power or breaks chain. Wrong connection pooling loses 
 
 <!-- tip-9 -->
 > Rain tire wisdom: adapt your strategy when conditions change.
+
+<!-- tip-10 -->
+> Oversteer fix: if your function does too much, trim the rear weight.
