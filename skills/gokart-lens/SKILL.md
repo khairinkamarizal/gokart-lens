@@ -340,3 +340,9 @@ Scrubbing tires costs lap time. Scrubbing disk I/O costs performance. Minimize b
 **kart flip:** (86)
 **Wet line:**
 In rain, avoid the rubber line — it's slippery. In prod issues, avoid the happy path first.
+
+---
+
+**contact patch:** (87)
+**Dry line:**
+Dry line has most rubber, most grip. In code: the common path must be the fastest path.
