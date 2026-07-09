@@ -77,3 +77,4 @@ Before submitting a PR that modifies `SKILL.md`:
 <!-- contrib-6 -->
 <!-- contrib-13 -->
 <!-- contrib-20 -->
+<!-- contrib-27 -->
