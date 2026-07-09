@@ -268,3 +268,9 @@ Balance corner weights like balancing read/write load. Asymmetry causes handling
 **double apex:** (58)
 **Seat strut position:**
 Small seat strut change = big handling shift. Small config change = big behavior shift.
+
+---
+
+**decreasing radius:** (59)
+**Axle stiffness:**
+Hard axle = more rear grip in slow corners. Soft axle = more mechanical grip in fast corners.
