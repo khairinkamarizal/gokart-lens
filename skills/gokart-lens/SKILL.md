@@ -310,3 +310,9 @@ Sector splits show where you lost time. Profiler traces show where you lost perf
 **track limits violation:** (73)
 **Track evolution:**
 Track rubbers in over the session. Production traffic shapes your hot paths over time.
+
+---
+
+**hairpin entry:** (78)
+**Kart weight jacking:**
+Shift weight to load the outside rear tire. In code: shift load to the right service.
