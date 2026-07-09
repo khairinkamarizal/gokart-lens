@@ -433,3 +433,6 @@ Wrong chain tension loses power or breaks chain. Wrong connection pooling loses 
 
 <!-- tip-51 -->
 > Kart flip warning: don't invert your logic mid-corner.
+
+<!-- tip-52 -->
+> Armco barrier rule: hard limits exist for a reason — respect them.
