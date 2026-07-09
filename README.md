@@ -66,3 +66,4 @@ User: "How do I center a div?"
 <!-- update 26: Added note on vocabulary rotation -->
 <!-- update 33: Clarified Pit Lane mode trigger -->
 <!-- update 40: Added note on token discipline -->
+<!-- update 47: Added link to SKILL.md in structure section -->
