@@ -466,3 +466,6 @@ Wrong chain tension loses power or breaks chain. Wrong connection pooling loses 
 
 <!-- tip-78 -->
 > Green sector tip: new code is untested — treat it like a new track surface.
+
+<!-- tip-79 -->
+> Track limits rule: stay within your abstraction boundaries.
