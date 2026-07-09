@@ -403,3 +403,6 @@ Wrong chain tension loses power or breaks chain. Wrong connection pooling loses 
 
 <!-- tip-29 -->
 > Kart setup sheet: document your config changes like a setup sheet.
+
+<!-- tip-30 -->
+> Weight transfer rule: shifting load between services needs careful tuning.
