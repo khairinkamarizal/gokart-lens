@@ -166,3 +166,9 @@ Rolling start: momentum matters. Incremental deploys: keep momentum, reduce risk
 **cool down lap:** (17)
 **Standing start:**
 Standing start: nail the launch or lose positions. Cold start latency matters.
+
+---
+
+**all time lap record:** (22)
+**Sector split:**
+Sector splits show where you lost time. Profiler traces show where you lost performance.
