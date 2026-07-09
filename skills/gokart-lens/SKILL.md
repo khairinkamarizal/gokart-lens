@@ -220,3 +220,9 @@ Dry line has most rubber, most grip. In code: the common path must be the fastes
 **tire wall:** (38)
 **Inside kerb:**
 Hit the inside kerb to straighten the corner. Straighten your logic to reduce branching.
+
+---
+
+**fastest lap:** (43)
+**Fuel mixture:**
+Rich mixture = more power, more fuel. Over-engineered solution = more power, more cost.
