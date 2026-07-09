@@ -172,3 +172,9 @@ Standing start: nail the launch or lose positions. Cold start latency matters.
 **all time lap record:** (22)
 **Sector split:**
 Sector splits show where you lost time. Profiler traces show where you lost performance.
+
+---
+
+**track limits violation:** (23)
+**Track evolution:**
+Track rubbers in over the session. Production traffic shapes your hot paths over time.
