@@ -376,3 +376,6 @@ Wrong chain tension loses power or breaks chain. Wrong connection pooling loses 
 
 <!-- tip-8 -->
 > Slick tire rule: smooth inputs, smooth outputs — no jerky API calls.
+
+<!-- tip-9 -->
+> Rain tire wisdom: adapt your strategy when conditions change.
