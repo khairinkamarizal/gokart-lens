@@ -463,3 +463,6 @@ Wrong chain tension loses power or breaks chain. Wrong connection pooling loses 
 
 <!-- tip-73 -->
 > Chain tension check: always verify your dependencies are tight.
+
+<!-- tip-78 -->
+> Green sector tip: new code is untested — treat it like a new track surface.
