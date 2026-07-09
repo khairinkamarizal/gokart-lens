@@ -409,3 +409,6 @@ Wrong chain tension loses power or breaks chain. Wrong connection pooling loses 
 
 <!-- tip-31 -->
 > Like finding the perfect braking point: commit early, commit often.
+
+<!-- tip-36 -->
+> Pit wall strategy: your code review is the pit wall signal.
