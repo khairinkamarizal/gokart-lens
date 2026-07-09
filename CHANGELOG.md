@@ -7,6 +7,7 @@ Format follows [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 ---
 
 ## [Unreleased]
+- Added sector split profiling tip (81)
 - Added flag marshal logging analogy (74)
 - Added cross weight balancing example (67)
 - Added decreasing radius warning example (60)
@@ -47,4 +48,3 @@ Format follows [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 - Core SKILL.md with gokart persona, token discipline rules, and basic examples
 - `.claude-plugin/plugin.json` and `.codex-plugin/plugin.json` manifests
 - `skills/gokart-lens/agents/openai.yaml` agent config
-
