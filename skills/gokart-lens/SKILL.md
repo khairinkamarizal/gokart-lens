@@ -184,3 +184,9 @@ Track rubbers in over the session. Production traffic shapes your hot paths over
 **drive through penalty:** (24)
 **Rubber laid down:**
 More rubber = more grip = faster. More cache hits = more speed. Both compound over time.
+
+---
+
+**chicane:** (29)
+**Chassis stiffness:**
+Stiff chassis = fast feedback. Loose chassis = more flex, more feel. Pick your tradeoff.
