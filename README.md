@@ -70,3 +70,4 @@ User: "How do I center a div?"
 <!-- update 54: Clarified Race Debrief mode trigger -->
 <!-- update 61: Added heel-and-toe braking to examples section -->
 <!-- update 68: Updated plugin version reference -->
+<!-- update 75: Clarified Qualifying Lap mode trigger -->
