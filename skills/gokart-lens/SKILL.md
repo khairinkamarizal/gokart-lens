@@ -472,3 +472,6 @@ Wrong chain tension loses power or breaks chain. Wrong connection pooling loses 
 
 <!-- tip-80 -->
 > Fastest lap tip: optimize the hot path last, not first.
+
+<!-- tip-85 -->
+> Standing start rule: a cold deploy needs a warm-up period.
