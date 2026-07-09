@@ -460,3 +460,6 @@ Wrong chain tension loses power or breaks chain. Wrong connection pooling loses 
 
 <!-- tip-72 -->
 > Fuel load tip: don't over-engineer early — save fuel for the final laps.
+
+<!-- tip-73 -->
+> Chain tension check: always verify your dependencies are tight.
