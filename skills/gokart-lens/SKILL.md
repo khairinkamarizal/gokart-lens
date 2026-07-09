@@ -322,3 +322,9 @@ Shift weight to load the outside rear tire. In code: shift load to the right ser
 **chicane:** (79)
 **Chassis stiffness:**
 Stiff chassis = fast feedback. Loose chassis = more flex, more feel. Pick your tradeoff.
+
+---
+
+**bus stop:** (80)
+**Front grip loss:**
+Front washes wide? You turned in too early. Same as calling a function before data is ready.
