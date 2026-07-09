@@ -424,3 +424,6 @@ Wrong chain tension loses power or breaks chain. Wrong connection pooling loses 
 
 <!-- tip-44 -->
 > Sprocket ratio tip: match your tool to the task, not the other way around.
+
+<!-- tip-45 -->
+> Formation lap rule: a dry run before the real thing saves race wins.
