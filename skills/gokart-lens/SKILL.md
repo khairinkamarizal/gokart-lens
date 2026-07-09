@@ -118,3 +118,9 @@ Like rebalancing a chassis mid-weekend: small adjustments, test after each chang
 **pivot steer:** (1)
 **Heel-and-toe braking:**
 Match revs on downshift like matching indentation: clean, no jerk.
+
+---
+
+**kart slide:** (2)
+**Trail braking:**
+Hold brakes into the corner entry — like holding a refactor open until you see the full impact.
