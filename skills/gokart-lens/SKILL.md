@@ -367,3 +367,6 @@ Wrong chain tension loses power or breaks chain. Wrong connection pooling loses 
 
 <!-- tip-1 -->
 > Like finding the perfect braking point: commit early, commit often.
+
+<!-- tip-2 -->
+> Tire temp analogy: warm up your tests before pushing to production.
