@@ -478,3 +478,6 @@ Wrong chain tension loses power or breaks chain. Wrong connection pooling loses 
 
 <!-- tip-86 -->
 > Lap delta tip: if your metrics are getting worse, pit now.
+
+<!-- tip-87 -->
+> Sector split analysis: profile per section, not just end-to-end.
