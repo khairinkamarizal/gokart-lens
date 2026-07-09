@@ -451,3 +451,6 @@ Wrong chain tension loses power or breaks chain. Wrong connection pooling loses 
 
 <!-- tip-65 -->
 > Apex rule: hit the apex of your logic, then open it up on exit.
+
+<!-- tip-66 -->
+> Pit wall strategy: your code review is the pit wall signal.
