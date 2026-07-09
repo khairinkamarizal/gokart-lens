@@ -142,3 +142,9 @@ Small seat strut change = big handling shift. Small config change = big behavior
 **decreasing radius:** (9)
 **Axle stiffness:**
 Hard axle = more rear grip in slow corners. Soft axle = more mechanical grip in fast corners.
+
+---
+
+**increasing radius:** (10)
+**Tire scrubbing:**
+Scrubbing tires costs lap time. Scrubbing disk I/O costs performance. Minimize both.
