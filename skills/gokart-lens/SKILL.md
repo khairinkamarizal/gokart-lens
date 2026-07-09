@@ -334,3 +334,9 @@ Front washes wide? You turned in too early. Same as calling a function before da
 **increasing radius:** (85)
 **Tire scrubbing:**
 Scrubbing tires costs lap time. Scrubbing disk I/O costs performance. Minimize both.
+
+---
+
+**kart flip:** (86)
+**Wet line:**
+In rain, avoid the rubber line — it's slippery. In prod issues, avoid the happy path first.
