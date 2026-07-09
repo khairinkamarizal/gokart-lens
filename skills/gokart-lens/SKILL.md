@@ -427,3 +427,6 @@ Wrong chain tension loses power or breaks chain. Wrong connection pooling loses 
 
 <!-- tip-45 -->
 > Formation lap rule: a dry run before the real thing saves race wins.
+
+<!-- tip-50 -->
+> Fastest lap tip: optimize the hot path last, not first.
