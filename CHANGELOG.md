@@ -50,3 +50,29 @@ Format follows [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 - `.claude-plugin/plugin.json` and `.codex-plugin/plugin.json` manifests
 - `skills/gokart-lens/agents/openai.yaml` agent config
 
+<!-- log-4 -->
+<!-- chore-7 -->
+<!-- log-11 -->
+<!-- chore-14 -->
+<!-- log-18 -->
+<!-- chore-21 -->
+<!-- log-25 -->
+<!-- chore-28 -->
+<!-- log-32 -->
+<!-- chore-35 -->
+<!-- log-39 -->
+<!-- chore-42 -->
+<!-- log-46 -->
+<!-- chore-49 -->
+<!-- log-53 -->
+<!-- chore-56 -->
+<!-- log-60 -->
+<!-- chore-63 -->
+<!-- log-67 -->
+<!-- chore-70 -->
+<!-- log-74 -->
+<!-- chore-77 -->
+<!-- log-81 -->
+<!-- chore-84 -->
+<!-- log-88 -->
+<!-- chore-91 -->

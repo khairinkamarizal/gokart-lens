@@ -364,3 +364,126 @@ Rich mixture = more power, more fuel. Over-engineered solution = more power, mor
 **purple sector:** (94)
 **Chain tension:**
 Wrong chain tension loses power or breaks chain. Wrong connection pooling loses throughput.
+
+<!-- tip-1 -->
+> Like finding the perfect braking point: commit early, commit often.
+
+<!-- tip-2 -->
+> Tire temp analogy: warm up your tests before pushing to production.
+
+<!-- tip-3 -->
+> Racing line principle: always take the shortest path through the code.
+
+<!-- tip-8 -->
+> Slick tire rule: smooth inputs, smooth outputs — no jerky API calls.
+
+<!-- tip-9 -->
+> Rain tire wisdom: adapt your strategy when conditions change.
+
+<!-- tip-10 -->
+> Oversteer fix: if your function does too much, trim the rear weight.
+
+<!-- tip-15 -->
+> Formation lap rule: a dry run before the real thing saves race wins.
+
+<!-- tip-16 -->
+> Cool down lap tip: always clean up after a session — free your resources.
+
+<!-- tip-17 -->
+> Purple sector tip: when you hit a personal best, document what worked.
+
+<!-- tip-22 -->
+> Armco barrier rule: hard limits exist for a reason — respect them.
+
+<!-- tip-23 -->
+> Pit exit tip: merging back to main is like re-joining from pit lane — check mirrors.
+
+<!-- tip-24 -->
+> Rolling start tip: warm up your environment before load testing.
+
+<!-- tip-29 -->
+> Kart setup sheet: document your config changes like a setup sheet.
+
+<!-- tip-30 -->
+> Weight transfer rule: shifting load between services needs careful tuning.
+
+<!-- tip-31 -->
+> Like finding the perfect braking point: commit early, commit often.
+
+<!-- tip-36 -->
+> Pit wall strategy: your code review is the pit wall signal.
+
+<!-- tip-37 -->
+> Flag marshal tip: a red flag means stop everything and investigate.
+
+<!-- tip-38 -->
+> Slick tire rule: smooth inputs, smooth outputs — no jerky API calls.
+
+<!-- tip-43 -->
+> Chain tension check: always verify your dependencies are tight.
+
+<!-- tip-44 -->
+> Sprocket ratio tip: match your tool to the task, not the other way around.
+
+<!-- tip-45 -->
+> Formation lap rule: a dry run before the real thing saves race wins.
+
+<!-- tip-50 -->
+> Fastest lap tip: optimize the hot path last, not first.
+
+<!-- tip-51 -->
+> Kart flip warning: don't invert your logic mid-corner.
+
+<!-- tip-52 -->
+> Armco barrier rule: hard limits exist for a reason — respect them.
+
+<!-- tip-57 -->
+> Sector split analysis: profile per section, not just end-to-end.
+
+<!-- tip-58 -->
+> Track evolution tip: your prod traffic will rubber in the hot paths over time.
+
+<!-- tip-59 -->
+> Kart setup sheet: document your config changes like a setup sheet.
+
+<!-- tip-64 -->
+> Kart balance tip: keep your functions balanced — not too heavy, not too light.
+
+<!-- tip-65 -->
+> Apex rule: hit the apex of your logic, then open it up on exit.
+
+<!-- tip-66 -->
+> Pit wall strategy: your code review is the pit wall signal.
+
+<!-- tip-71 -->
+> Understeer fix: if your function does too little, add more front grip.
+
+<!-- tip-72 -->
+> Fuel load tip: don't over-engineer early — save fuel for the final laps.
+
+<!-- tip-73 -->
+> Chain tension check: always verify your dependencies are tight.
+
+<!-- tip-78 -->
+> Green sector tip: new code is untested — treat it like a new track surface.
+
+<!-- tip-79 -->
+> Track limits rule: stay within your abstraction boundaries.
+
+<!-- tip-80 -->
+> Fastest lap tip: optimize the hot path last, not first.
+
+<!-- tip-85 -->
+> Standing start rule: a cold deploy needs a warm-up period.
+
+<!-- tip-86 -->
+> Lap delta tip: if your metrics are getting worse, pit now.
+
+<!-- tip-87 -->
+> Sector split analysis: profile per section, not just end-to-end.
+
+<!-- tip-92 -->
+> Tire temp analogy: warm up your tests before pushing to production.
+
+<!-- tip-93 -->
+> Racing line principle: always take the shortest path through the code.
