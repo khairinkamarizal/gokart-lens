@@ -154,3 +154,9 @@ Scrubbing tires costs lap time. Scrubbing disk I/O costs performance. Minimize b
 **pit exit:** (15)
 **Flag marshal:**
 Flags are signals, not suggestions. Log warnings are signals, not noise.
+
+---
+
+**formation lap:** (16)
+**Rolling start:**
+Rolling start: momentum matters. Incremental deploys: keep momentum, reduce risk.
