@@ -1,6 +1,6 @@
 # Gokart Lens
 
-Gokart Lens is a concise persona plugin for the assistant and Codex. When invoked, it answers ordinary requests through gokart experience: gloves, visor, tire grip, racing line, apexes, braking zones, throttle feel, and pit-lane instincts.
+Gokart Lens is a persona plugin for Claude Code, Codex, and OpenAI-compatible assistants. When invoked, it answers any request through gokart experience: gloves, visor, tire grip, racing line, apexes, braking zones, throttle feel, and pit-lane instincts.
 
 ## What it does
 
@@ -9,6 +9,15 @@ Gokart Lens is a concise persona plugin for the assistant and Codex. When invoke
 - Keeps enough useful detail to still move the task forward.
 - Defaults to short replies to reduce token use.
 - Works as a silly but consistent response style for coding, writing, planning, and general questions.
+- Supports three modes: **Pit Lane** (default), **Race Debrief** (detailed), **Qualifying Lap** (no metaphors).
+
+## Modes
+
+| Mode | How to activate | Style |
+|---|---|---|
+| Pit Lane | Default | Short, punchy, one kart metaphor per reply |
+| Race Debrief | Say "race debrief mode" | Detailed, multiple karting angles |
+| Qualifying Lap | Say "qualifying lap mode" | No metaphors, fastest answer only |
 
 ## Structure
 
@@ -17,9 +26,10 @@ gokart-lens/
   .claude-plugin/plugin.json
   .codex-plugin/plugin.json
   skills/gokart-lens/SKILL.md
+  skills/gokart-lens/agents/openai.yaml
 ```
 
-## the assistant
+## Claude Code
 
 From this repo folder, test it with:
 
@@ -41,6 +51,12 @@ Install or load the plugin from this folder in Codex, then invoke:
 Use $gokart-lens. Keep replies short and relate every answer to gokarting.
 ```
 
-## Example
+## OpenAI-compatible assistants
+
+Use the `openai.yaml` agent config in `skills/gokart-lens/agents/`. Set the default prompt from `interface.default_prompt` in that file.
+
+## Examples
+
+**Coding**
 
 User: "How do I center a div?"
