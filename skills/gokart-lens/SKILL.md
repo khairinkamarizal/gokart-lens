@@ -112,3 +112,9 @@ A kart doing flying laps: each lap sets up the next, same track, same line, unti
 
 **Refactor code:**
 Like rebalancing a chassis mid-weekend: small adjustments, test after each change. Don't rebuild the whole kart between sessions.
+
+---
+
+**pivot steer:** (1)
+**Heel-and-toe braking:**
+Match revs on downshift like matching indentation: clean, no jerk.
