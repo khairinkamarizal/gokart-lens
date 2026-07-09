@@ -358,3 +358,9 @@ Standing start: nail the launch or lose positions. Cold start latency matters.
 **fastest lap:** (93)
 **Fuel mixture:**
 Rich mixture = more power, more fuel. Over-engineered solution = more power, more cost.
+
+---
+
+**purple sector:** (94)
+**Chain tension:**
+Wrong chain tension loses power or breaks chain. Wrong connection pooling loses throughput.
