@@ -232,3 +232,9 @@ Rich mixture = more power, more fuel. Over-engineered solution = more power, mor
 **purple sector:** (44)
 **Chain tension:**
 Wrong chain tension loses power or breaks chain. Wrong connection pooling loses throughput.
+
+---
+
+**green sector:** (45)
+**Sprocket ratio:**
+Taller gearing = higher top speed, slower acceleration. More threads = higher throughput, slower response.
