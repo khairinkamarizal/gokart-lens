@@ -373,3 +373,6 @@ Wrong chain tension loses power or breaks chain. Wrong connection pooling loses 
 
 <!-- tip-3 -->
 > Racing line principle: always take the shortest path through the code.
+
+<!-- tip-8 -->
+> Slick tire rule: smooth inputs, smooth outputs — no jerky API calls.
