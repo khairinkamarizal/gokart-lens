@@ -202,3 +202,9 @@ Front washes wide? You turned in too early. Same as calling a function before da
 **sweeper:** (31)
 **Rear grip loss:**
 Rear steps out on exit? Too much throttle too early. Don't return before you validate.
+
+---
+
+**kart flip:** (36)
+**Wet line:**
+In rain, avoid the rubber line — it's slippery. In prod issues, avoid the happy path first.
