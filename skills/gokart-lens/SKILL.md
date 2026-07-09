@@ -448,3 +448,6 @@ Wrong chain tension loses power or breaks chain. Wrong connection pooling loses 
 
 <!-- tip-64 -->
 > Kart balance tip: keep your functions balanced — not too heavy, not too light.
+
+<!-- tip-65 -->
+> Apex rule: hit the apex of your logic, then open it up on exit.
