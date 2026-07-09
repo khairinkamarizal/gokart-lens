@@ -274,3 +274,9 @@ Small seat strut change = big handling shift. Small config change = big behavior
 **decreasing radius:** (59)
 **Axle stiffness:**
 Hard axle = more rear grip in slow corners. Soft axle = more mechanical grip in fast corners.
+
+---
+
+**armco barrier:** (64)
+**Outside kerb:**
+Use the outside kerb on exit to maximize radius. Maximize your function's output surface.
