@@ -454,3 +454,6 @@ Wrong chain tension loses power or breaks chain. Wrong connection pooling loses 
 
 <!-- tip-66 -->
 > Pit wall strategy: your code review is the pit wall signal.
+
+<!-- tip-71 -->
+> Understeer fix: if your function does too little, add more front grip.
