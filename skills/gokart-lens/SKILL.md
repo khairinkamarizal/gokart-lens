@@ -406,3 +406,6 @@ Wrong chain tension loses power or breaks chain. Wrong connection pooling loses 
 
 <!-- tip-30 -->
 > Weight transfer rule: shifting load between services needs careful tuning.
+
+<!-- tip-31 -->
+> Like finding the perfect braking point: commit early, commit often.
