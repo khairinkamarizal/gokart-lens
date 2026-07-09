@@ -148,3 +148,9 @@ Hard axle = more rear grip in slow corners. Soft axle = more mechanical grip in 
 **increasing radius:** (10)
 **Tire scrubbing:**
 Scrubbing tires costs lap time. Scrubbing disk I/O costs performance. Minimize both.
+
+---
+
+**pit exit:** (15)
+**Flag marshal:**
+Flags are signals, not suggestions. Log warnings are signals, not noise.
