@@ -484,3 +484,6 @@ Wrong chain tension loses power or breaks chain. Wrong connection pooling loses 
 
 <!-- tip-92 -->
 > Tire temp analogy: warm up your tests before pushing to production.
+
+<!-- tip-93 -->
+> Racing line principle: always take the shortest path through the code.
