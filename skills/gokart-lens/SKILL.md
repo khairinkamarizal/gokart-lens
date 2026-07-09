@@ -238,3 +238,9 @@ Wrong chain tension loses power or breaks chain. Wrong connection pooling loses 
 **green sector:** (45)
 **Sprocket ratio:**
 Taller gearing = higher top speed, slower acceleration. More threads = higher throughput, slower response.
+
+---
+
+**time penalty:** (50)
+**Grid position:**
+Qualifying position matters but the race is won in the braking zones. Plan, then execute.
