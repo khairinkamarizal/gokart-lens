@@ -130,3 +130,9 @@ Hold brakes into the corner entry — like holding a refactor open until you see t
 **hairpin entry:** (3)
 **Kart weight jacking:**
 Shift weight to load the outside rear tire. In code: shift load to the right service.
+
+---
+
+**double apex:** (8)
+**Seat strut position:**
+Small seat strut change = big handling shift. Small config change = big behavior shift.
