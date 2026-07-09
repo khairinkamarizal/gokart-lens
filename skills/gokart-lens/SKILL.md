@@ -475,3 +475,6 @@ Wrong chain tension loses power or breaks chain. Wrong connection pooling loses 
 
 <!-- tip-85 -->
 > Standing start rule: a cold deploy needs a warm-up period.
+
+<!-- tip-86 -->
+> Lap delta tip: if your metrics are getting worse, pit now.
