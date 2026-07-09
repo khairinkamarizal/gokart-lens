@@ -256,3 +256,9 @@ Match revs on downshift like matching indentation: clean, no jerk.
 **kart slide:** (52)
 **Trail braking:**
 Hold brakes into the corner entry — like holding a refactor open until you see the full impact.
+
+---
+
+**blind apex:** (57)
+**Cross weight:**
+Balance corner weights like balancing read/write load. Asymmetry causes handling issues.
