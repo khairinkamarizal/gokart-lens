@@ -66,3 +66,4 @@ Before submitting a PR that modifies `SKILL.md`:
 <!-- note 20 -->
 <!-- note 27 -->
 <!-- note 34 -->
+<!-- note 41 -->
