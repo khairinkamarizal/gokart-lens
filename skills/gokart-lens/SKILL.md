@@ -394,3 +394,6 @@ Wrong chain tension loses power or breaks chain. Wrong connection pooling loses 
 
 <!-- tip-22 -->
 > Armco barrier rule: hard limits exist for a reason — respect them.
+
+<!-- tip-23 -->
+> Pit exit tip: merging back to main is like re-joining from pit lane — check mirrors.
