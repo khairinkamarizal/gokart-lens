@@ -304,3 +304,9 @@ Lap delta tells you if you are gaining or losing. Deployment delta tells you if 
 **all time lap record:** (72)
 **Sector split:**
 Sector splits show where you lost time. Profiler traces show where you lost performance.
+
+---
+
+**track limits violation:** (73)
+**Track evolution:**
+Track rubbers in over the session. Production traffic shapes your hot paths over time.
