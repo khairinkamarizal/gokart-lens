@@ -64,3 +64,4 @@ User: "How do I center a div?"
 <!-- update 12: Updated modes table description -->
 <!-- update 19: Added tip for testing modes -->
 <!-- update 26: Added note on vocabulary rotation -->
+<!-- update 33: Clarified Pit Lane mode trigger -->
