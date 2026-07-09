@@ -1,9 +1,20 @@
 {
   "name": "gokart-lens",
   "displayName": "Gokart Lens",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Concise gokart persona: answer any topic through grip, apex, braking, racing line, and throttle instinct.",
   "author": {
     "name": "khair"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "shortDescription": "Concise gokart-mode replies.",
+    "longDescription": "Gokart Lens makes replies short, useful, and kart-brained: every topic becomes grip, apex, braking point, racing line, throttle feel, gloves, visor, or pit-lane logic. Supports Pit Lane, Race Debrief, and Qualifying Lap modes.",
+    "category": "Productivity",
+    "capabilities": [
+      "persona",
+      "writing-style"
+    ],
+    "defaultPrompt": "Use $gokart-lens. Keep replies short and relate every answer to gokarting."
   }
 }
