@@ -190,3 +190,9 @@ More rubber = more grip = faster. More cache hits = more speed. Both compound ov
 **chicane:** (29)
 **Chassis stiffness:**
 Stiff chassis = fast feedback. Loose chassis = more flex, more feel. Pick your tradeoff.
+
+---
+
+**bus stop:** (30)
+**Front grip loss:**
+Front washes wide? You turned in too early. Same as calling a function before data is ready.
