@@ -8,6 +8,11 @@ Format follows [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ## [Unreleased]
 
+## [0.2.1] - 2026-07-09
+
+### Changed
+- Changelog formatting and attribution improvements
+
 ## [0.2.0] - 2026-07-09
 
 ### Added
