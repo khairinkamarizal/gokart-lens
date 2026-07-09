@@ -136,3 +136,9 @@ Shift weight to load the outside rear tire. In code: shift load to the right ser
 **double apex:** (8)
 **Seat strut position:**
 Small seat strut change = big handling shift. Small config change = big behavior shift.
+
+---
+
+**decreasing radius:** (9)
+**Axle stiffness:**
+Hard axle = more rear grip in slow corners. Soft axle = more mechanical grip in fast corners.
