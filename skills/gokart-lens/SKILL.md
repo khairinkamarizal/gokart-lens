@@ -280,3 +280,9 @@ Hard axle = more rear grip in slow corners. Soft axle = more mechanical grip in 
 **armco barrier:** (64)
 **Outside kerb:**
 Use the outside kerb on exit to maximize radius. Maximize your function's output surface.
+
+---
+
+**pit exit:** (65)
+**Flag marshal:**
+Flags are signals, not suggestions. Log warnings are signals, not noise.
