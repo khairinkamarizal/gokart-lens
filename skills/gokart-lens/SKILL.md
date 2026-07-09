@@ -418,3 +418,6 @@ Wrong chain tension loses power or breaks chain. Wrong connection pooling loses 
 
 <!-- tip-38 -->
 > Slick tire rule: smooth inputs, smooth outputs — no jerky API calls.
+
+<!-- tip-43 -->
+> Chain tension check: always verify your dependencies are tight.
